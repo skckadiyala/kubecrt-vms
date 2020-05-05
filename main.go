@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	utils "git.ecd.axway.int/apigov/kubecrt-vms/utils"
+	utils "github.com/skckadiyala/kubecrt-vms/utils"
 	"golang.org/x/crypto/ssh"
 )
 
