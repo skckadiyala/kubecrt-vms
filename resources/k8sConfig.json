@@ -1,0 +1,17 @@
+{
+  "sshInfo":{
+    "username": "*****",
+    "password": "*********"
+},
+"masterNodes":["<Provide IP Addess>", "<Provide IP Addess>", "<Provide IP Addess>" ],
+"minionNodes":["<Provide IP Addess>","<Provide IP Addess>","<Provide IP Addess>"],
+"loadBalancer":["<Provide IP Addess>"],
+"ca-config":"ca-config.json",
+"ca-csr":"ca-csr.json",
+"kubernetes-csr":"kubernetes-csr.json", 
+"etcdService":"etcdService.sh",
+"configFile": "config.sh",
+"haProxyCfg": "haproxycfg.sh",
+"cniNetwork": "weave"
+}
+

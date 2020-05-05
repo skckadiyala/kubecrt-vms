@@ -1,0 +1,5 @@
+kubejoin.cmd
+# k8sConfig.json
+*.pem
+/pki
+vendor/
